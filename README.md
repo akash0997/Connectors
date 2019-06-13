@@ -1,2 +1,2 @@
 # Connectors
-Jfrog, Confluence and Gitlab
+Jfrog, Confluence and Gitlab 
